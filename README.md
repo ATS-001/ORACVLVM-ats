@@ -35,7 +35,9 @@ An end-to-end **Machine Learning web application** designed as an interactive de
 ---
 
 ## 📅 Workshop Context
-**Day 6 of Projectathon conducted by μLearn LBSITW, AI x DS (3rd July 2026)** - **Presented by:** *Aiswarya Jayaprakash, Data Science IG Lead, µLearn LBSITW* ### Core Concepts Mastered
+**Day 6 of Projectathon conducted by μLearn LBSITW, AI x DS (3rd July 2026)** - **Presented by:** *Aiswarya Jayaprakash, Data Science IG Lead, µLearn LBSITW* 
+
+### Core Concepts Mastered
 - **Supervised Classification:** Tuning multi-tree ensembles to output valid probability distributions (`predict_proba`).
 - **Feature Engineering Alignment:** Constructing array inputs matching precise pipeline parameters.
 - **Session State Control:** Maintaining interface forms clean without disrupting local object variables.
